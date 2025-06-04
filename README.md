@@ -74,5 +74,6 @@ WGCNA-Coexpression-Analysis/
 │   └── wgcna_pipeline.R  # Main pipeline script
 └── results/              # Auto-generated outputs
 ```
+For full documentation, see docs/README.pdf.
 
-**Contact**: Sally L. Yepes Torres ([sallyepes233@gmail.com]| **License**: MIT | **Last Updated**: June 2025
+**Contact**: Sally Yepes (sallyepes233@gmail.com)| **License**: MIT | **Last Updated**: June 2025
