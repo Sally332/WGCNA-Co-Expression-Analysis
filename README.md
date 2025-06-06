@@ -76,4 +76,4 @@ WGCNA-Coexpression-Analysis/
 ```
 For full documentation, see docs/README.pdf.
 
-**Contact**: Sally Yepes (sallyepes233@gmail.com)| **License**: MIT | **Last Updated**: June 2025
+**Contact**: Sally Yepes (sallyepes233@gmail.com)| **License**: MIT |
